@@ -3,3 +3,4 @@ remote de product islendi...
 remote de baska bir product eklendi R2
 4th branch taskini tamamladı
 Bazi özellikler eklendi from 5th
+Diger dev ark ozllik ekledi
